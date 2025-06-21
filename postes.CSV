@@ -1,0 +1,29 @@
+id_poste,nom_poste,departement,niveau,salaire_min,salaire_max,manager_recruteur,date_publication,statut
+P001,Consultant Data Analyst Junior,Data & AI,Junior,38000,45000,Sophie Martin,2024-01-15,Fermé
+P002,Consultant Senior Cybersecurity,Cybersecurity,Senior,65000,75000,Marc Dubois,2024-01-22,Fermé
+P003,Project Manager Digital,Digital Transformation,Senior,58000,68000,Amélie Rousseau,2024-02-01,Fermé
+P004,Tech Lead Cloud,IT Consulting,Expert,75000,85000,Jean Moreau,2024-02-10,Fermé
+P005,Consultant Junior IT,IT Consulting,Junior,36000,42000,Jean Moreau,2024-02-15,Fermé
+P006,Data Scientist Senior,Data & AI,Senior,70000,80000,Sophie Martin,2024-03-01,Fermé
+P007,Consultant Change Management,Digital Transformation,Senior,55000,65000,Amélie Rousseau,2024-03-10,Fermé
+P008,Pentester Junior,Cybersecurity,Junior,42000,48000,Marc Dubois,2024-03-20,Fermé
+P009,Business Analyst,IT Consulting,Intermédiaire,48000,55000,Jean Moreau,2024-04-01,Fermé
+P010,Machine Learning Engineer,Data & AI,Senior,68000,78000,Sophie Martin,2024-04-15,Fermé
+P011,Consultant SAP,Digital Transformation,Senior,62000,72000,Amélie Rousseau,2024-05-01,Fermé
+P012,Consultant Junior Data,Data & AI,Junior,39000,46000,Sophie Martin,2024-05-15,Fermé
+P013,Architecte Sécurité,Cybersecurity,Expert,80000,90000,Marc Dubois,2024-06-01,Fermé
+P014,Scrum Master,IT Consulting,Senior,52000,62000,Jean Moreau,2024-06-10,Fermé
+P015,Consultant Junior Cyber,Cybersecurity,Junior,40000,47000,Marc Dubois,2024-07-01,En cours
+P016,Product Owner,Digital Transformation,Senior,56000,66000,Amélie Rousseau,2024-07-15,En cours
+P017,DevOps Engineer,IT Consulting,Intermédiaire,50000,60000,Jean Moreau,2024-08-01,En cours
+P018,AI Engineer,Data & AI,Senior,72000,82000,Sophie Martin,2024-08-15,En cours
+P019,Consultant Junior Digital,Digital Transformation,Junior,37000,44000,Amélie Rousseau,2024-09-01,En cours
+P020,Security Analyst,Cybersecurity,Intermédiaire,52000,62000,Marc Dubois,2024-09-15,En cours
+P021,Full Stack Developer,IT Consulting,Senior,58000,68000,Jean Moreau,2024-10-01,En cours
+P022,Data Engineer,Data & AI,Senior,66000,76000,Sophie Martin,2024-10-15,En cours
+P023,Consultant UX/UI,Digital Transformation,Intermédiaire,48000,58000,Amélie Rousseau,2024-11-01,Ouvert
+P024,Consultant Junior Cloud,IT Consulting,Junior,38000,45000,Jean Moreau,2024-11-10,Ouvert
+P025,Consultant BI Senior,Data & AI,Senior,64000,74000,Sophie Martin,2024-11-15,Ouvert
+P026,Consultant RGPD,Cybersecurity,Senior,60000,70000,Marc Dubois,2024-12-01,Ouvert
+P027,Consultant Junior Agile,Digital Transformation,Junior,35000,42000,Amélie Rousseau,2024-12-10,Ouvert
+P028,Solutions Architect,IT Consulting,Expert,78000,88000,Jean Moreau,2024-12-15,Ouvert

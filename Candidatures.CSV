@@ -1,0 +1,51 @@
+id_candidature,id_poste,nom_candidat,email,telephone,canal_recrutement,date_candidature,statut_actuel,cv_score,experience_annees
+C001,P001,Alexandre Martin,alexandre.martin@email.com,0623456789,LinkedIn,2024-01-18,Embauché,89,2
+C002,P001,Marie Dubois,marie.dubois@email.com,0634567890,Site IBM,2024-01-20,Refusé,67,0
+C003,P001,Pierre Thomas,pierre.thomas@email.com,0645678901,Cooptation,2024-01-25,Entretien final,85,1
+C004,P001,Sophie Robert,sophie.robert@email.com,0656789012,École partenaire,2024-01-28,Refusé,72,0
+C005,P001,Thomas Richard,thomas.richard@email.com,0667890123,LinkedIn,2024-02-02,Entretien technique,78,1
+C006,P002,Camille Petit,camille.petit@email.com,0678901234,Cabinet recrutement,2024-01-25,Embauché,92,5
+C007,P002,Nicolas Durand,nicolas.durand@email.com,0689012345,LinkedIn,2024-01-28,Offre envoyée,88,4
+C008,P002,Emma Leroy,emma.leroy@email.com,0690123456,Site IBM,2024-02-01,Entretien final,84,3
+C009,P002,Julien Moreau,julien.moreau@email.com,0601234567,Cooptation,2024-02-05,Refusé,76,2
+C010,P002,Laura Simon,laura.simon@email.com,0612345678,LinkedIn,2024-02-08,Entretien technique,82,4
+C011,P003,Antoine Laurent,antoine.laurent@email.com,0623456789,Cabinet recrutement,2024-02-04,Embauché,90,6
+C012,P003,Chloé Lefebvre,chloe.lefebvre@email.com,0634567890,LinkedIn,2024-02-07,Entretien final,86,5
+C013,P003,Maxime Michel,maxime.michel@email.com,0645678901,Site IBM,2024-02-10,Refusé,74,3
+C014,P003,Sarah Garcia,sarah.garcia@email.com,0656789012,Cooptation,2024-02-15,Entretien technique,81,4
+C015,P003,Lucas David,lucas.david@email.com,0667890123,LinkedIn,2024-02-18,Présélectionné,77,2
+C016,P004,Léa Bertrand,lea.bertrand@email.com,0678901234,Cabinet recrutement,2024-02-13,Embauché,94,8
+C017,P004,Gabriel Roux,gabriel.roux@email.com,0689012345,LinkedIn,2024-02-16,Offre envoyée,91,7
+C018,P004,Manon Vincent,manon.vincent@email.com,0690123456,Site IBM,2024-02-20,Entretien final,87,6
+C019,P004,Hugo Fournier,hugo.fournier@email.com,0601234567,Cooptation,2024-02-25,Refusé,79,5
+C020,P004,Inès Martin,ines.martin@email.com,0612345678,LinkedIn,2024-03-01,Entretien technique,85,7
+C021,P005,Alexandre Bernard,alexandre.bernard@email.com,0623456789,École partenaire,2024-02-18,Embauché,88,1
+C022,P005,Marie Dubois,marie.dubois2@email.com,0634567890,LinkedIn,2024-02-22,Entretien final,83,0
+C023,P005,Pierre Thomas,pierre.thomas2@email.com,0645678901,Site IBM,2024-02-25,Refusé,71,0
+C024,P005,Sophie Robert,sophie.robert2@email.com,0656789012,Spontanée,2024-03-01,Entretien technique,76,1
+C025,P005,Thomas Richard,thomas.richard2@email.com,0667890123,LinkedIn,2024-03-05,Présélectionné,80,2
+C026,P006,Camille Petit,camille.petit2@email.com,0678901234,Cabinet recrutement,2024-03-04,Embauché,93,6
+C027,P006,Nicolas Durand,nicolas.durand2@email.com,0689012345,LinkedIn,2024-03-08,Offre envoyée,89,5
+C028,P006,Emma Leroy,emma.leroy2@email.com,0690123456,Cooptation,2024-03-12,Entretien final,86,4
+C029,P006,Julien Moreau,julien.moreau2@email.com,0601234567,Site IBM,2024-03-15,Refusé,78,3
+C030,P006,Laura Simon,laura.simon2@email.com,0612345678,LinkedIn,2024-03-20,Entretien technique,84,5
+C031,P007,Antoine Laurent,antoine.laurent2@email.com,0623456789,Cabinet recrutement,2024-03-13,Embauché,91,7
+C032,P007,Chloé Lefebvre,chloe.lefebvre2@email.com,0634567890,LinkedIn,2024-03-16,Entretien final,87,6
+C033,P007,Maxime Michel,maxime.michel2@email.com,0645678901,Site IBM,2024-03-20,Refusé,75,4
+C034,P007,Sarah Garcia,sarah.garcia2@email.com,0656789012,Cooptation,2024-03-25,Entretien technique,82,5
+C035,P007,Lucas David,lucas.david2@email.com,0667890123,LinkedIn,2024-03-28,Présélectionné,79,3
+C036,P008,Léa Bertrand,lea.bertrand2@email.com,0678901234,École partenaire,2024-03-23,Embauché,86,1
+C037,P008,Gabriel Roux,gabriel.roux2@email.com,0689012345,LinkedIn,2024-03-26,Entretien final,82,0
+C038,P008,Manon Vincent,manon.vincent2@email.com,0690123456,Site IBM,2024-03-30,Refusé,73,0
+C039,P008,Hugo Fournier,hugo.fournier2@email.com,0601234567,Spontanée,2024-04-02,Entretien technique,77,1
+C040,P008,Inès Martin,ines.martin2@email.com,0612345678,LinkedIn,2024-04-05,Présélectionné,81,2
+C041,P009,Alexandre Martin,alexandre.martin3@email.com,0623456789,Cabinet recrutement,2024-04-04,Embauché,89,3
+C042,P009,Marie Dubois,marie.dubois3@email.com,0634567890,LinkedIn,2024-04-08,Offre envoyée,85,2
+C043,P009,Pierre Thomas,pierre.thomas3@email.com,0645678901,Cooptation,2024-04-12,Entretien final,83,4
+C044,P009,Sophie Robert,sophie.robert3@email.com,0656789012,Site IBM,2024-04-15,Refusé,76,1
+C045,P009,Thomas Richard,thomas.richard3@email.com,0667890123,LinkedIn,2024-04-20,Entretien technique,80,3
+C046,P010,Camille Petit,camille.petit3@email.com,0678901234,Cabinet recrutement,2024-04-18,Embauché,94,7
+C047,P010,Nicolas Durand,nicolas.durand3@email.com,0689012345,LinkedIn,2024-04-22,Entretien final,90,6
+C048,P010,Emma Leroy,emma.leroy3@email.com,0690123456,Site IBM,2024-04-25,Refusé,81,4
+C049,P010,Julien Moreau,julien.moreau3@email.com,0601234567,Cooptation,2024-04-30,Entretien technique,87,5
+C050,P010,Laura Simon,laura.simon3@email.com,0612345678,LinkedIn,2024-05-03,Présélectionné,84,6

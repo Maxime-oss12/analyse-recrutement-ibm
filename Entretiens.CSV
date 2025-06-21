@@ -1,0 +1,51 @@
+id_entretien,id_candidature,type_entretien,date_entretien,duree_minutes,note_sur_10,commentaires,recruteur
+E001,C001,Screening RH,2024-01-25,35,8,Profil intéressant avec bonne motivation,Sophie Martin
+E002,C001,Entretien technique,2024-02-01,75,9,Excellentes compétences en analyse de données,Marc Dubois
+E003,C001,Entretien final,2024-02-08,60,9,Candidat recommandé pour embauche,Sophie Martin
+E004,C003,Screening RH,2024-02-02,30,7,Bon potentiel junior,Claire Lefevre
+E005,C003,Entretien technique,2024-02-09,80,8,Bonnes bases techniques à développer,David Chen
+E006,C003,Entretien final,2024-02-15,50,8,Profil prometteur,Sophie Martin
+E007,C005,Screening RH,2024-02-08,32,7,Candidat motivé,Amélie Rousseau
+E008,C005,Entretien technique,2024-02-16,70,7,Compétences correctes,Jean Moreau
+E009,C006,Screening RH,2024-02-01,40,9,Excellent profil senior,Marc Dubois
+E010,C006,Entretien technique,2024-02-08,85,9,Expertise cybersécurité confirmée,Marc Dubois
+E011,C006,Entretien final,2024-02-14,65,9,Candidat parfait pour le poste,Marc Dubois
+E012,C007,Screening RH,2024-02-05,35,8,Très bon candidat,Claire Lefevre
+E013,C007,Entretien technique,2024-02-12,75,8,Solides compétences techniques,Marc Dubois
+E014,C007,Entretien final,2024-02-18,55,8,Recommandé avec réserves mineures,Marc Dubois
+E015,C008,Screening RH,2024-02-08,38,7,Profil intéressant,David Chen
+E016,C008,Entretien technique,2024-02-15,78,8,Bonnes compétences,Marc Dubois
+E017,C008,Entretien final,2024-02-21,62,7,Candidat correct,Marc Dubois
+E018,C010,Screening RH,2024-02-15,33,8,Bonne impression générale,Sophie Martin
+E019,C010,Entretien technique,2024-02-22,72,7,Compétences à confirmer,Marc Dubois
+E020,C011,Screening RH,2024-02-10,42,9,Excellent manager expérimenté,Amélie Rousseau
+E021,C011,Entretien technique,2024-02-17,90,9,Parfaite maîtrise de la gestion projet,Amélie Rousseau
+E022,C011,Entretien final,2024-02-23,70,9,Embauche recommandée,Amélie Rousseau
+E023,C012,Screening RH,2024-02-14,36,8,Bon profil de manager,Claire Lefevre
+E024,C012,Entretien technique,2024-02-21,85,8,Solide expérience projet,Amélie Rousseau
+E025,C012,Entretien final,2024-02-27,65,8,Candidat qualifié,Amélie Rousseau
+E026,C014,Screening RH,2024-02-22,34,7,Profil correct,David Chen
+E027,C014,Entretien technique,2024-03-01,75,7,Compétences acceptables,Amélie Rousseau
+E028,C016,Screening RH,2024-02-20,45,9,Expert technique confirmé,Jean Moreau
+E029,C016,Entretien technique,2024-02-27,95,9,Expertise cloud exceptionnelle,Jean Moreau
+E030,C016,Entretien final,2024-03-05,80,9,Candidat idéal pour tech lead,Jean Moreau
+E031,C017,Screening RH,2024-02-23,40,8,Très bon profil senior,Claire Lefevre
+E032,C017,Entretien technique,2024-03-02,88,8,Solides compétences cloud,Jean Moreau
+E033,C017,Entretien final,2024-03-08,72,8,Candidat recommandé,Jean Moreau
+E034,C018,Screening RH,2024-02-27,37,7,Profil intéressant,David Chen
+E035,C018,Entretien technique,2024-03-06,82,7,Compétences correctes,Jean Moreau
+E036,C018,Entretien final,2024-03-12,68,7,Candidat acceptable,Jean Moreau
+E037,C020,Screening RH,2024-03-08,39,8,Bon potentiel,Sophie Martin
+E038,C020,Entretien technique,2024-03-15,76,8,Bonnes compétences techniques,Jean Moreau
+E039,C021,Screening RH,2024-02-25,31,8,Junior prometteur,Jean Moreau
+E040,C021,Entretien technique,2024-03-04,68,8,Bon potentiel à développer,Jean Moreau
+E041,C021,Entretien final,2024-03-10,55,8,Embauche recommandée,Jean Moreau
+E042,C022,Screening RH,2024-03-01,33,7,Profil junior correct,Claire Lefevre
+E043,C022,Entretien technique,2024-03-08,70,7,Compétences de base,Jean Moreau
+E044,C022,Entretien final,2024-03-14,52,7,Candidat correct,Jean Moreau
+E045,C024,Screening RH,2024-03-08,30,7,Motivation à confirmer,David Chen
+E046,C024,Entretien technique,2024-03-15,65,7,Bases techniques correctes,Jean Moreau
+E047,C026,Screening RH,2024-03-11,44,9,Excellent data scientist,Sophie Martin
+E048,C026,Entretien technique,2024-03-18,92,9,Expertise IA remarquable,Sophie Martin
+E049,C026,Entretien final,2024-03-24,75,9,Candidat exceptionnel,Sophie Martin
+E050,C027,Screening RH,2024-03-15,38,8,Très bon profil,Claire Lefevre
