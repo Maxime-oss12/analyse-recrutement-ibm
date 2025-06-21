@@ -23,6 +23,9 @@ Ce projet propose un script Python complet pour analyser les données de recrute
   - Bar chart des candidatures par canal
 - **Résumé automatique** des points clés de l'analyse
 
+## 📊 Aperçu des résultats
+![Graphiques d'analyse](analyse_recrutement_ibm.png)
+
 ## Prérequis
 
 - Python 3.8 ou supérieur
